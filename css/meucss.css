@@ -1,0 +1,866 @@
+@charset "UTF-8";
+
+body {
+    
+    background-color:lightgray;
+
+}
+
+article {
+    
+    background-color:black; 
+    margin: 20px 100px 20px 100px;
+    padding: 20px 30px 40px 100px;
+}
+
+.row {
+    
+    padding-top:px;
+}
+
+p {
+    
+    text-align: justify;
+    color: aliceblue;
+    padding-top: 45px;
+    clear: both;
+        
+}
+
+h1 {
+    
+    text-align: center;
+    color: red;
+    padding-left: 245px;
+
+}
+
+.img-responsive2 {
+    
+    float: left;
+    left: 10px;
+    
+   
+    
+}
+
+#img2 {
+    
+    float: left;
+    padding-top: 60px;
+    left: 1%;
+}
+
+.imagemfilme {
+    
+    float: right;
+    padding-top: 90px;
+    
+    
+    
+}
+
+.copy {
+    
+    text-align: center;
+    color: black;
+    
+}
+
+
+/* aqui começa a segunda página*/
+
+.primeirovideo {
+    
+  position: relative;
+  right: -15%;
+ 
+    
+}
+
+.pg2 {
+        
+    
+    
+}
+
+section {
+    
+    background-color:black; 
+    margin: 20px 100px 20px 100px;
+    padding: 20px 30px 40px 100px;
+}
+
+h2 {
+    
+    text-align: center;
+    color: red;
+    padding-left: 245px;
+        
+}
+
+
+.foge {
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 245px;
+}
+
+.link1 {
+    
+    color: red;
+    text-align: center;
+    padding-left: 450px;
+}
+
+h3 {
+    
+    text-align: center;
+    color: red;
+    padding-left: 25px; 
+    
+    
+}
+
+.tituloator{
+    text-align: center;
+    position: absolute;
+    left: 120px;
+    top: 55px;
+    
+}
+
+#ator { 
+    width: 200px;
+    position: absolute;
+    top: 350px;
+    left: 19%;
+  
+    
+}
+
+.ator {
+    text-align: justify;
+    position: absolute;
+    left: 115px;
+    bottom: 345px;
+    right: 25px;
+    width: 12em;;
+    
+    
+}
+
+.atortext {
+    text-align: justify;
+    position: absolute;
+    left: 114px;
+    width: 12em;
+    bottom: 235px;
+  
+    
+    
+}
+
+.tituloatriz {
+    text-align: center;
+    position: absolute;
+    left: 80px;
+    top: 55px;
+    
+}
+
+#atriz {
+    
+    width: 200px;
+    position: absolute;
+    top: 350px;
+    left: 43%;
+  
+}
+
+.atriz {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;  
+    bottom: 271px;
+}
+
+.atriztext {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;
+    bottom: 179px
+    
+    
+}
+
+
+.tituloroteiroadaptado {
+    text-align: center;
+    position: absolute;
+    right: 10%;
+    top: 55px;
+    
+    
+}
+
+#melhorroteiroadaptado {
+    
+    width: 200px;
+    position: absolute
+    padding-bottom: 200px;
+    margin-top: 113px;
+    margin-left: 970px; 
+    
+}
+
+.roteiroadaptado {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 366px;
+    width: 12em;
+    left: 970px;   
+    
+}
+
+.roteiroadaptadotext {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 236px;
+    width: 12em;
+    left: 970px;  
+    
+}
+
+.rowtextprimeiro {
+    
+    padding-top: 400px;
+    
+    
+}
+
+/* aqui ficara a terceira linha de imagens e textos da terceira página */
+
+.titulofotografia {
+    
+    text-align: center;
+    position: absolute;
+    left: 90px;
+    bottom: 140px;
+     
+}
+
+.titulodirecaodearte {
+    
+    text-align: center;
+    position: absolute;
+    left: 25px;
+    bottom: 139px;
+}
+
+.tituloroteirooriginal {
+    
+    text-align: center;
+    position: absolute;
+    right: 5%; 
+    bottom: 139px;
+}
+
+#fotografia {
+    
+    width: 200px;
+    float: left;
+    right: -103px; 
+    bottom: 129px;
+    
+}
+
+#melhordirecaodearte {
+    
+    width: 200px;
+    float: left;
+    right: -313px; 
+    bottom: 129px;
+}
+
+#melhorroteirooriginal {
+    
+    width: 200px;
+    position: absolute;
+    left: 1190px;
+    bottom: -280px;
+        
+}
+
+.fotografia {
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    bottom: 273px;
+    right: 20px;
+    width: 12em;;
+    
+}
+
+.fotografiatext {
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    width: 12em;
+    bottom: 180px;
+    
+    
+}
+
+.melhordirecaodearte {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;  
+    bottom: 199px;
+    
+}
+
+.melhordirecaodeartetext {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;
+    bottom: 145px
+    
+}
+
+.roteirooriginal {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 252px;
+    width: 12em;
+    left: 990px;   
+    
+    
+}
+
+.roteirooriginaltext {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 200px;
+    width: 12em;
+    left: 990px;  
+    
+}
+
+.rowtextsegundo {
+    
+    padding-top: 150px;
+    
+}
+
+/* aqui começa a quarta linha de titulo, imagem e textos*/
+
+.tituloh {
+    
+    text-align: center;
+    position: absolute;
+    left: -1px;
+    bottom: 120px; 
+         
+}
+
+.titulofilmeprod {
+    
+    text-align: center;
+    position: absolute;
+    left: 40px;
+    bottom: 119px;
+    
+}
+
+.titulodirecaodrama {
+    
+    text-align: center;
+    position: absolute;
+    right: 9%; 
+    bottom: 119px;
+    
+}
+
+#melhorfilmeart {
+    
+    width: 200px;
+    float: left;
+    right: -103px; 
+    bottom: 104px;  
+    
+}
+
+
+#melhorfilmeprod {
+    
+    width: 200px;
+    float: left;
+    right: -313px; 
+    bottom: 104px;
+        
+}
+
+#melhordirecaodrama {
+    
+    width: 200px;
+    position: absolute;
+    left: 1120px;
+    bottom: -850px;   
+}
+
+
+.rowtextterceiro {
+    
+    padding-top: 150px;
+    
+    
+}
+
+.melhorfilmeprodart{
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    bottom: 234px;
+    right: 20px;
+    width: 12em;;
+}
+
+.melhorfilmeprodarttext {
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    width: 12em;
+    bottom: 160px;
+    
+    
+}
+
+.melhorfilmeprod {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;  
+    bottom: 199px;
+    
+}
+
+.melhorfilmeprodtext {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 80px;
+    bottom: 145px
+    
+    
+}
+
+.melhordirecaodrama {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 215px;
+    width: 12em;
+    left: 920px;   
+    
+}
+
+
+.melhordirecaodramatext {
+    
+    text-align: justify;
+    position: absolute;
+    bottom: 140px;
+    width: 12em;
+    left: 920px;    
+    
+}
+
+/*aqui comça a quinta linha com titulo, imagens e textos*/
+
+.titulomelhordirecaocomedia {
+    
+    text-align: center;
+    position: absolute;
+    left: 20px;
+    bottom: 100px; 
+    
+}
+
+.titulomelhoresefeitosespeciais {
+    
+    text-align: center;
+    position: absolute;
+    left: 10px;
+    bottom: 98px;
+    
+}
+
+
+#melhorcomedia {
+    
+    width: 200px;
+    float: left;
+    right: -103px; 
+    bottom: 85px; 
+    
+}
+
+
+#melhoresefeitos {
+    
+    width: 200px;
+    float: left;
+    right: -313px; 
+    bottom: 85px;
+    
+}
+
+.melhorfilmecomedia {
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    bottom: 194px;
+    right: 20px;
+    width: 12em;;
+    
+}
+
+.melhorfilmecomediatext {
+    
+    text-align: justify;
+    position: absolute;
+    left: 105px;
+    width: 12em;
+    bottom: 135px;
+    
+}
+
+.melhoresefeitos {
+    
+    text-align: justify;
+    position: absolute;
+    width: 12em;
+    left: 110px;  
+    bottom: 180px;
+    
+}
+
+/*Página 4*/
+
+.articleoscar {
+    
+    padding-top: 500px;
+    
+}
+
+.rowtitulooscar {
+    
+    padding-top: 250px;
+    
+}
+
+.rowoscar {
+    
+    padding-top: px;
+}
+
+#oscar {
+    
+    width: 300px;
+    float: left;
+    top: px;
+    right: px;
+    bottom: 350px;
+    left: 250px;
+}
+
+.titulooscar {
+    
+    text-align: center;
+    position: absolute;
+    left: -25px;
+    bottom: 420px;
+    
+}
+
+.texto {
+    
+    text-align: justify;
+    position: absolute;
+    left: 190px;
+    width: 30em;
+    bottom: 810px;
+    
+    
+}
+
+.textogrande {
+    
+    text-align: justify;
+    right: 150px;
+    
+}
+
+/*Página 5*/
+
+.cinemanacional {
+    
+    padding-top: 200px;
+    
+}
+
+.titulovinda{
+    
+    text-align: center;
+    position: absolute;
+    bottom: 130px;
+    right: 50px;
+    width: 30em;
+    
+}
+
+#pagadordepromessa {
+    
+    float: left;
+    width: 400px;
+    left: 50px;
+      
+}
+
+.subtitulo {
+    
+    text-align: center;
+    position: absolute;
+    width: 35em;
+    right: -323px;
+    bottom: -55px;
+    
+}
+
+.textpromessa {
+    
+    text-align: justify;
+    float: left;
+    padding-left: -20%;
+    padding-right: 20%;
+    padding-top: 10%;
+    padding-bottom: %;
+    
+    
+}
+
+#imagemdeus {
+    
+    float: right;
+    width: 28em;
+    height: 250px;
+    right: 190px;
+    
+}
+
+.subtitulofaseruim {
+    position: absolute;
+    right: 320px;
+}
+
+.textfase {
+    
+    text-align: justify;
+    padding-right: 12%;;
+    padding-top: 10%;
+}
+
+/*pagina 6 */
+
+.articleseis{
+    padding-top:px;
+    
+    
+}
+
+
+.melhoresnacionais {
+    text-align: center;
+    left: 250px;
+    bottom: 250%;
+    
+}
+
+#imagemtropa {
+    left: 350px;
+    height: 290px;
+    
+    
+}
+
+#imagemcidade {
+    width: 500px;  
+    left: 70px;
+}
+
+#imagemassalto {
+    
+    width: 500px;
+    left: 160px;
+    padding-left;
+    height: 260px;
+}
+
+.linkdois {
+    
+    color: red;
+    text-align: center;
+    padding-left: 450px;
+    
+}
+
+/*pagina épico dentro da segunda pagina*/
+
+.segundovideo {
+    
+    position: relative;
+    right: -30%;
+    height: 400px;
+}
+
+#acoisa {
+    
+    width: 200px;
+    position: absolute;
+    top: 350px;
+    left: 19%;
+    
+}
+
+#amumia {
+    
+    width: 200px;
+    position: absolute;
+    top: 350px;
+    left: 43%;
+    
+    
+}
+
+#aocair {
+    
+    width: 200px;
+    position: absolute
+    padding-bottom: 200px;
+    margin-top: 113px;
+    margin-left: 940px;  
+    
+}
+
+
+#colossal {
+    
+    width: 200px;
+    float: left;
+    right: -103px; 
+    bottom: 279px;
+    
+}
+
+#transgressores {
+    
+    width: 200px;
+    float: left;
+    right: -313px; 
+    bottom: 279px; 
+    
+}
+
+#anabelle {
+    
+    width: 200px;
+    position: absolute;
+    left: 1120px;
+    bottom: -240px;
+    
+    
+}
+
+
+
+.colossal {
+    
+    text-align: center;
+    position: absolute;
+    left: 128px;
+    bottom: 280px;
+    
+}
+
+.transgressores {
+    
+    text-align: center;
+    position: absolute;
+    left: 70px;
+    bottom: 225px;
+    
+}
+
+
+.anabelle {
+    
+    text-align: center;
+    position: absolute;
+    right: 14%; 
+    bottom: 279px;
+    
+    
+    
+}
+
+#acordado {
+    
+    width: 500px;
+    float: left;
+    top: px;
+    right: px;
+    bottom: 350px;
+    left: 300px;
+}
+
+#acordado {
+   top: 25px; 
+    
+    
+    
+}
+
+.textsobre {
+    text-align: justify;
+    
+    
+}
+
+
+
+
+
+
+
+
+
